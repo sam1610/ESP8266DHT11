@@ -15,6 +15,7 @@ void loop(){
   Serial.print("Humidity = "); 
   Serial.print(ReadH());
   Serial.println(" %");
+  delay(1000);
 }
 
 
