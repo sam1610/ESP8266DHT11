@@ -1,0 +1,6 @@
+{
+    "terminal.integrated.env.osx": {
+        "PATH": "/Users/medamin/.platformio/penv/bin:/Users/medamin/.platformio/penv:/Library/Frameworks/Python.framework/Versions/3.7/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Users/medamin/bin",
+        "PLATFORMIO_CALLER": "vscode"
+    }
+}
